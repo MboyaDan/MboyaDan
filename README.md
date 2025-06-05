@@ -8,7 +8,7 @@
 - 💻 I love working on **Mobile Apps, Backend Systems, Data Engineering**, and **AI for Finance**
 - 🤖 Currently exploring **Generative AI**, **Machine Learning**, and **Quantitative Analysis**
 - 💡 Always looking to collaborate on **projects that challenge the status quo in finance**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/Mboya_Danroylex) or at **onyangoroylex@gmail.com**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mboya-danroylex-7059b91b9 ) or at **onyangoroylex@gmail.com**
 
 ---
 
