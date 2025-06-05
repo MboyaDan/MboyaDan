@@ -63,18 +63,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MboyaDan&show_icons=true&theme=tokyonight" alt="MboyaDan's GitHub stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MboyaDan&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
 </p>
 
 ---
-
-### ⚡ Fun Fact
-
-> I believe the **future of finance** will be shaped by **open-source collaboration, real-time data, and intelligent systems**. Let's build that future together. 💼📊💻
-
----
-
 
 ### ⚡ Fun Fact
 
