@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MboyaDan
-- 👀 I’m interested in Mobile app development Datascience and Data Engineering 
+- 👀 I’m interested in Mobile app development,Datascience and Data Engineering 
 - 🌱 I’m currently exploring deeply into generative AI and Datascience for finance
-- 💞️ I’m looking to collaborate any mind enaging project that will bring me more experince in my field
+- 💞️ I’m looking to collaborate any mind enaging project that will revolutionize the finance space
 - 📫 How to reach me Mboya_Danroylex on LinkedIn,onyangoroylex@gmail.com is my email
 
 <!---
