@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MboyaDan
-- 👀 I’m interested in Mobile app development,Datascience and Data Engineering 
-- 🌱 I’m currently exploring deeply into generative AI and Datascience for finance
-- 💞️ I’m looking to collaborate any mind enaging project that will revolutionize the finance space
-- 📫 How to reach me Mboya_Danroylex on LinkedIn,onyangoroylex@gmail.com is my email
+# 👋 Hi, I’m @MboyaDan
+
+- 👀 I’m passionate about **Mobile App Development**, **Backend Engineering**, **Data Science**, and **Data Engineering**  
+- 🌱 Currently diving deep into **Generative AI** and **Data Science for Finance**  
+- 💡 I’m eager to collaborate on **mind-engaging projects** that aim to **revolutionize the finance space**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/Mboya_Danroylex) or via email: **onyangoroylex@gmail.com**
 
 <!---
 MboyaDan/MboyaDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
